@@ -1,4 +1,4 @@
-# V_RObot
+# D_RObot
 Discord bot to help with homework tracking. 
 
 Connects to a Google Sheet using the Google Sheets API to read and add due dates. 
